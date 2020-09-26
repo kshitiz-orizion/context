@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.bothClassContainer{
+  width: 100vw;
+  height: 100vh;
+  background: #f1f1f1;
+  display: flex;
+}
+
+.classA{
+  width: 48vw;
+  height: 90vh;
+  margin: 20px;
+  border: 1px solid #a1a1a1;
+}
+
+.classB{
+  width: 48vw;
+  height: 90vh;
+  margin: 20px;
+  border: 1px solid #a1a1a1;
+}
